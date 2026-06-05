@@ -19,7 +19,7 @@
 Élève ingénieur admis à **SeaTech Toulon** (Systèmes Numériques, rentrée 2026), titulaire d'une **Licence Informatique** de l'Université de Limoges.
 Passionné par le développement logiciel full-stack, les APIs REST et les systèmes embarqués.
 
-📍 **Disponible dès septembre 2026 · Alternance 3 ans · Zones : Toulon, Toulouse, Limoges**
+📍 **Disponible dès septembre 2026 · Alternance 3 ans · Toute la France**
 
 ---
 
